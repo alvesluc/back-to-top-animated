@@ -1,16 +1,9 @@
 # back_to_top_animated
 
-A new Flutter project.
+https://user-images.githubusercontent.com/42820357/226085408-530fac1f-1d76-403d-a1ed-707e6480514a.mov
 
-## Getting Started
+---
+Vídeo original (implementação em React Native):
+[Manipulando Scrollview (+ Animações) no React Native](https://www.youtube.com/watch?v=QNYgJiYmJhc).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Autor do vídeo: [Rodrigo Gonçalves](linkedin.com/in/rodrigo-gonçalves-santana).
